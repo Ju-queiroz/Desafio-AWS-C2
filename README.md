@@ -1,9 +1,12 @@
 # Desafio-AWS-EC2
 # ☁️ Desafio - Gerenciamento de Instâncias EC2 na AWS
 
-Este repositório é parte do **desafio de projeto do bootcamp Santander Code Girls 2025 (DIO)**.  
+**desafio de projeto do bootcamp Santander Code Girls 2025 (DIO)**.  
 Aqui eu registrei tudo o que aprendi na prática sobre **instâncias EC2**, **AMIs** e **Snapshots EBS**, incluindo prints das etapas e diagramas de arquitetura criados no **Draw.io**.
 
+#Descrição do desafio
+
+*Este laboratório tem como objetivo consolidar seus conhecimentos em gerenciamento de instâncias EC2 na AWS. O entregável é um repositório organizado contendo anotações e insights adquiridos durante a prática, servindo como material de apoio para os seus estudos e futuras implementações.*
 ---
 
 ## 🎯 Objetivos do desafio
@@ -15,10 +18,6 @@ Aqui eu registrei tudo o que aprendi na prática sobre **instâncias EC2**, **AM
 
 ---
 
-## 📝 Etapas que eu realizei
-*(detalhes da EC2, AMI e Snapshot, como já combinamos… pode manter os prints aqui se quiser)*
-
----
 
 ## 🏗️ Diagramas de Arquitetura
 
@@ -64,15 +63,7 @@ Aqui eu registrei tudo o que aprendi na prática sobre **instâncias EC2**, **AM
 
 ---
 
-## 📚 Recursos que usei
-- [AWS EC2 - Guia Oficial](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)  
-- [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)  
-- [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)  
-- [Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)  
-- [Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)  
 
----
 
 ## 👩‍💻 Autora
-Sou **Julia Oliveira**, estudante de tecnologia e participante do **Santander Code Girls 2025**.  
-Este repositório faz parte da minha jornada aprendendo cloud, DevOps e boas práticas em AWS. 🚀  
+**Julia Oliveira**  
