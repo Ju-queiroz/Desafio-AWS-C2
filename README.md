@@ -57,7 +57,7 @@ Este laboratório tem como objetivo consolidar conhecimentos em gerenciamento de
 - Como diferentes serviços da AWS se conectam para formar soluções completas.  
 - Que **S3 + Lambda + DynamoDB** são ideais para soluções serverless.  
 - Que **EC2 + EBS + RDS** simulam uma arquitetura tradicional, mas com recursos de nuvem.  
-- A importância de documentar fluxos com diagramas para entender melhor a arquitetura.  
+-
 
 ---
 
