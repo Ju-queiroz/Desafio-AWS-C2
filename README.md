@@ -7,7 +7,7 @@ Aqui eu registrei tudo o que aprendi na prática sobre **instâncias EC2**, **AM
 ---
 
 ## 🎯 Objetivos do desafio
-Este laboratório tem como objetivo consolidar seus conhecimentos em gerenciamento de instâncias EC2 na AWS. O entregável é um repositório organizado contendo anotações e insights adquiridos durante a prática, servindo como material de apoio para os seus estudos e futuras implementações.
+Este laboratório tem como objetivo consolidar conhecimentos em gerenciamento de instâncias EC2 na AWS. O entregável é um repositório organizado contendo anotações e insights adquiridos durante a prática, servindo como material de apoio para os estudos e futuras implementações.
 - Criar e configurar uma instância **EC2** do zero.  
 - Gerar uma **AMI personalizada**.  
 - Criar e restaurar **Snapshots EBS**.  
