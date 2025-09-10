@@ -55,9 +55,9 @@ Este laboratório tem como objetivo consolidar conhecimentos em gerenciamento de
 
 ## 📘 O que aprendi
 - Como diferentes serviços da AWS se conectam para formar soluções completas.  
-- Que **S3 + Lambda + DynamoDB** são ideais para soluções serverless.  
-- Que **EC2 + EBS + RDS** simulam uma arquitetura tradicional, mas com recursos de nuvem.  
--
+- Criar e gerenciar instâncias EC2: entendi como provisionar uma máquina virtual na nuvem, escolher o tipo certo (t2.micro/free tier) e configurar chaves de acesso (Key Pairs) e regras de segurança (Security Groups).
+- Trabalhar com Snapshots EBS
+- Gerar imagens AMI personalizadas: aprendi que as AMIs permitem salvar o estado de uma instância já configurada e usá-la como base para criar novas instâncias idênticas. Isso economiza tempo e facilita a escalabilidade
 
 ---
 
